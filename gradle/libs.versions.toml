@@ -7,7 +7,7 @@ fabric-loader = "0.16.14"
 # Loom (https://github.com/FabricMC/fabric-loom)
 loom = "1.10-SNAPSHOT"
 # Meteor (https://github.com/MeteorDevelopment/meteor-client/)
-meteor = "meteor = "1.21.11-SNAPSHOT""
+meteor = "meteor = "1.21.11-SNAPSHOT"
 # Mods
 [libraries]
 # Fabric base
